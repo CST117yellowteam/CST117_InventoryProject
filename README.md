@@ -9,3 +9,9 @@ Linda Lee - Our tasks for our Inventory project were to create a pseudocode and 
 Jose Fernandez - This week I worked on the top down design and the flowcharts. I made the top down design and after asking the instructor, Michael decided to make some changes and add it to the top down. I created the flowcharts for this week. Linda and Michael edited the flowcharts and made a few adjustments/updates. I did a drawing of the last flowchart during my military training, sent a picture of it through the group chat and Linda was able to put the drawing of the chart  on Microsoft Word and make some adjustments. Michael was able to the pseudocode, checked with us and we agreed on that it was good to go.
 
 Michael Rogers - For Milestone 2, my primary focus was writing the pseudocode based on previously designed use cases and the flowcharts designed this week by Jose and Linda. Additionally, I provided some edits to the top down model design and flowcharts.
+
+# Milestone 3
+
+Linda Lee - In this week’s project I was introduced to using the Windows Forms App (.NET Framework) template. It gave me some time to learn about different features for each form created within the properties box. There are various styles, formats and color schemes to utilize to customize each form. I even got to play with the icon feature and found our logo for our project. We each created forms, the forms I worked on are Order, Alert and the Exit forms.
+
+Michael Rogers - This week, I worked on building the initial Login form, the main inventory form, and the edit item details form which was based on Linda's initial draft of the form. I also edited various forms to try and make sure our style remained consistent throughout the entire application.
