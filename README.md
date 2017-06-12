@@ -14,4 +14,6 @@ Michael Rogers - For Milestone 2, my primary focus was writing the pseudocode ba
 
 Linda Lee - In this week’s project I was introduced to using the Windows Forms App (.NET Framework) template. It gave me some time to learn about different features for each form created within the properties box. There are various styles, formats and color schemes to utilize to customize each form. I even got to play with the icon feature and found our logo for our project. We each created forms, the forms I worked on are Order, Alert and the Exit forms.
 
+Jose Fernandez - this week, I used the file the Michael uploaded which had the initial login and main screen form. From there I added the forms for the search box, create new item, update quantity, check alerts and connected them to main screen. I worked on the style a little and then after linda and Michael made some other adjustments to it. 
+
 Michael Rogers - This week, I worked on building the initial Login form, the main inventory form, and the edit item details form which was based on Linda's initial draft of the form. I also edited various forms to try and make sure our style remained consistent throughout the entire application.
