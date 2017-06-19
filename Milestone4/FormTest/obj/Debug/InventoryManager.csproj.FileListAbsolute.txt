@@ -1,0 +1,86 @@
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\FormTest.exe
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\obj\Debug\FormTest.pdb
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\bin\Debug\FormTest.exe
+C:\Users\mcrog\Documents\Visual Studio 2017\Projects\FormTest\FormTest\bin\Debug\FormTest.pdb
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\bin\Debug\InventoryManager.exe.config
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\bin\Debug\InventoryManager.exe
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\bin\Debug\InventoryManager.pdb
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.CreateItem.resources
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.exe
+C:\Users\raful\Documents\InvManager\FormTest\FormTest\obj\Debug\InventoryManager.pdb
+C:\Users\st1wo\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.exe.config
+C:\Users\st1wo\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.exe
+C:\Users\st1wo\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.pdb
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.CreateItem.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.exe
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.pdb
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.SearchResults.resources
+C:\Users\st1wo\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.UpdateItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\bin\Debug\InventoryManager.exe.config
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\bin\Debug\InventoryManager.exe
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\bin\Debug\InventoryManager.pdb
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.Alerts.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.CreateItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.SearchResults.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.UpdateItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.exe
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.pdb
+C:\Users\mcrog\Documents\GCU\CST-117\Week4\FormTest\FormTest\obj\Debug\InventoryManager.DeleteConfirm.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.exe.config
+C:\Users\mcrog\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.exe
+C:\Users\mcrog\Desktop\FormTest\FormTest\bin\Debug\InventoryManager.pdb
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.Alerts.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.CreateItem.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.DeleteConfirm.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.SearchResults.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.UpdateItem.resources
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.exe
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.pdb
+C:\Users\mcrog\Desktop\FormTest\FormTest\obj\Debug\InventoryManager.OrderItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\bin\Debug\InventoryManager.exe.config
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\bin\Debug\InventoryManager.exe
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\bin\Debug\InventoryManager.pdb
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.Alerts.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.CreateItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.DeleteConfirm.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.EditItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.Login.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.MainScreen.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.OrderItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.SearchResults.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.UpdateItem.resources
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.exe
+C:\Users\mcrog\Documents\GCU\CST-117\Group\Week5\FormTest\obj\Debug\InventoryManager.pdb
