@@ -25,3 +25,11 @@ Linda Lee - This week I learned that errors brought on by entering the wrong dat
 Jose Fernandez - This week for milestone 4 I worked on creating the error list for each form of the software. After discussing it with the group, Michael was able to create the code for the needed error messages and after he verified with linda and myself and to see if it needed adjustments and we all agreed on it.
 
 Michael Rogers - Wrote code to catch any errors that a user may input in the various data fields located throughout the application. Our application now rejects the incorrect input and displays a message to inform the user where the error occurred, and the correct format their input should be. Made adjustments after Linda's testing to assist in implementing her idea of additional means of alerting the user by using sound to signify an error has occurred.
+
+# Milestone 5
+
+Linda Lee - My contribution this week was to connect the database to our project and started a basic Access Database. Two tables were developed in which they were used to connect to our project. One table held the user name and password fields and the other table holds all the information of all the items in the hardware store. I did not have any major difficulties in connecting the database to our project. Michael connected the rest of forms with the database and Jose added more items to the second table. We all tested the final version and all is working good.
+
+Jose Fernandez - This week our group worked on creating the database and applying it to the forms of our software. Our objective was to make the database functional with the options of the main screen.  I worked on creating the items for the inventory for the database. I did some research on the price, brands, and equipments that hardware stores usually have. After working on the list, Michael was able to combine the database with the main screen and make the inventory list functional. He verified with us after to make sure everyone was satisfied with the way the project was running.
+
+Michael Rogers - This week, I wrote code to display the data from the database in our main table. I also implemented functionality of the Create Item form to add items to the database, the Edit Item form to edit existing items, the Update Quantity form, the Delete Item form, the Check Alerts section, and the Search function.
